@@ -1,0 +1,21 @@
+Overview
+
+ Elevate the UI from functional to delightful. Inspired by iOS 26 Apple Maps dynamic menu, DailyLoop's clean aesthetic, and modern
+ native app patterns. Focus on compactness, polish, and distinctive design that avoids generic "AI slop."
+
+ ---
+ Design Direction
+
+ Aesthetic Goals
+
+ - Compact & Dense: Tighter spacing, more information-dense layouts
+ - Soft Depth: Subtle shadows, layered surfaces, glassmorphism touches
+ - Micro-interactions: Smooth hover states, press feedback, animated transitions
+ - Distinctive Typography: Move away from generic - use tighter letter-spacing, varied weights
+
+ Color Refinements
+
+ Keep the light theme but add depth:
+ - Warmer off-white background (oklch(0.985 0.005 90)) instead of pure white
+ - Softer shadows with warm tint
+ - Status colors: Emerald green for success, warm amber for pending
